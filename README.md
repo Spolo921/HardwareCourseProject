@@ -24,11 +24,13 @@ Pre Wiring  |  Post Wiring
 :-------------------------:|:-------------------------:
 ![Image1](https://github.com/user-attachments/assets/12c85e16-b63b-45ff-bbbf-fe2ef8877970)  | ![Image2](https://github.com/user-attachments/assets/f7f9ed3c-98f1-4643-9164-e3aca38bd55a) 
 
-These next two images show the v2 setup and the first verison that were wired, placing the mircocontroller facing the side and the buttons placed in a column at the top. This seemed like a great to have them placed as the wiring lined up nicely and the buttons were placed in a way that was intuitive to the user, however this was proven incorrect when talking to our peers as the usb c cable would be placed where the users hand would be and making the buttons hard to use.
+These next two images show the v2 setup and the first verison that were wired, placing the mircocontroller facing the side and the buttons placed in a column at the top. This seemed like a great to have them placed as the wiring lined up nicely and the buttons were placed in a way that was intuitive to the user, however this was proven incorrect when talking to our peers as the usb c cable would be placed where the users hand would be and making the buttons hard to use. As for the right controller the marco buttons 
 
-Final Verison|  Print Verision  
-:-------------------------:|:-------------------------:
-![Image3](https://github.com/user-attachments/assets/bf1725a1-084a-4068-bfc3-ac74528dee0e")  | ![Image4](Grab from pc print ready image)
+Final Verison|  Print verision left controller | Print verision right controller  
+:-------------------------:|:-------------------------:|:-------------------------:
+![Image3](https://github.com/user-attachments/assets/bf1725a1-084a-4068-bfc3-ac74528dee0e)  | ![Image4](Grab from pc print ready(left) image) |  ![Image5](Grab from pc print ready(right) image)
+
+These two showcase the final verison of the board, and the print ready verison for both with the pcb being placed on the top, and the buttons in a square formation to make comibation moves such as a super (medium or heavy input + special input) easier for the user, ie using one finger to press two buttons at once. It
 
 
 
